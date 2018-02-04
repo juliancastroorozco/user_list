@@ -4,7 +4,8 @@
  # Usage
  Clone repository, open the index.html file.
   
- ## credits:
+ ## Credits:
  
  [Data tables](https://datatables.net/examples/styling/bootstrap.html)
+ 
  [Google Maps](https://developers.google.com/maps/documentation/javascript/examples/marker-simple)
